@@ -1,0 +1,5 @@
+{
+  "sources": ["src/logic_gates.v"],
+  "testbench": "sim/tb_logic_gates.sv",
+  "simulation_top": "tb_logic_gates"
+}

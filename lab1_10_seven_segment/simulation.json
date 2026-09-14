@@ -1,0 +1,5 @@
+{
+  "sources": ["src/seven_seg.v"],
+  "testbench": "sim/tb_seven_seg.sv",
+  "simulation_top": "tb_seven_seg"
+}
